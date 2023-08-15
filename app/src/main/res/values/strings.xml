@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_post">Add Post</string>
+    <string name="post_detail">Post Detail</string>
+    <string name="post">Post</string>
+</resources>

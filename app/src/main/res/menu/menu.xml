@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:icon="@drawable/home"
+        android:title="Books"
+        android:id="@+id/bookFragment"/>
+
+    <item android:icon="@drawable/list"
+        android:title="BookDetail"
+        android:id="@+id/bookdetailFragment"/>
+
+</menu>
